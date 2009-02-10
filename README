@@ -1,0 +1,14 @@
+This is an unfinished project to write a WikiCreole1.0 parser in C (and lex!)
+
+The output formats could include:
+
+* XHTML
+* (La)TeX
+* *roff
+* RTF
+* MediaWiki markup
+* Markdown
+
+It might also be cool to have converters from MediaWiki and Markdown into Creole.
+
+<http://nyctergatis.com/creole/index.html> is a similar effort.
